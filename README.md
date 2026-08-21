@@ -18,6 +18,7 @@ CS direct admit at the **University of Washington's Paul G. Allen School**, curr
 
 - 🔬 Researching applications of AI in education under Dr. Lalitha Subramanian
 - 🧠 My work on **cross-cultural facial emotion recognition** won 1st place at WSSEF 2025 and was published in *Curieux Academic Journal*
+- 📱 Shipped **[OnTrack: Fitness & Faith](https://apps.apple.com/us/app/ontrack-fitness-faith/id6791721388)** to the App Store — workouts, diet, and prayer tracking in one private, local-first iPhone app
 - 🛠️ Currently building **Taleem** — a Quran LMS with AI recitation feedback
 - 🏌️ Outside of code: weights, golf, tennis, and an acoustic guitar
 
