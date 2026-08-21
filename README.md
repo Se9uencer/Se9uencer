@@ -28,6 +28,8 @@ CS direct admit at the **University of Washington's Paul G. Allen School**, curr
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -49,7 +51,8 @@ CS direct admit at the **University of Washington's Paul G. Allen School**, curr
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| **[Taleem](https://github.com/Se9uencer/taleem)** · [live ↗](https://actual-taleem-4hazheen0-ibrahim-ansaris-projects.vercel.app/) | Full-stack Quran LMS for Sunday schools. AI recitation feedback via Whisper + Levenshtein scoring across all 114 Surahs, role-based dashboards, 15-table Postgres schema with RLS. | Next.js · TypeScript · PostgreSQL |
+| **[Taleem](https://github.com/Se9uencer/taleem)** · [live ↗](https://mytaleem.org) | Full-stack Quran LMS for Sunday schools. AI recitation feedback via Whisper + Levenshtein scoring across all 114 Surahs, role-based dashboards, 15-table Postgres schema with RLS. | Next.js · TypeScript · PostgreSQL |
+| **[OnTrack](https://github.com/Se9uencer/OnTrack)** | All-in-one iPhone fitness app — body weight, gym splits, diet tracking, and an AI coach on Gemini. Local-first with SwiftData: no accounts, no user-data backend. HealthKit sync and a 616-exercise bundled database. | Swift · SwiftData · HealthKit |
 | **[Khatam](https://github.com/Se9uencer/Khatam)** · [live ↗](https://duatracker.netlify.app/) | Real-time collaborative dua & dhikr tracker. Live-syncing campaign counts, offline queuing, RTL Arabic rendering. | Firebase · PWA |
 | **[Cross-Cultural Emotion Recognition](https://github.com/Se9uencer/cross-cultural-facial-emotion-recognition)** | Two ResNet-18 CNNs on ~10k images each. 20% cross-dataset augmentation lifted cross-cultural accuracy from 15.6% → 79.2%. 🥇 WSSEF 2025 | PyTorch · ResNet-18 |
 | **[Golf Swing Coach](https://github.com/Se9uencer/golf-swing-coach)** | Turns a phone video into a swing report — MediaPipe pose tracking measures early extension, posture loss, and head sway against your own setup. | Python · MediaPipe |
