@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Albert+Sans&weight=700&size=30&duration=2800&pause=900&color=5857FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ibrahim+Ansari;CS+%40+UW+Allen+School;Builder+of+things+that+matter" alt="Ibrahim Ansari" />
+<img src="https://readme-typing-svg.demolab.com?font=Albert+Sans&weight=700&size=30&duration=2800&pause=900&color=5857FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ibrahim+Ansari;CS+%40+UW+Allen+School;Founder+%40+Taleem+(MAPS+Combinator+'26);Builder+of+things+that+matter" alt="Ibrahim Ansari" />
 
 <p>
   <a href="https://linkedin.com/in/ibrahimansari01"><img src="https://img.shields.io/badge/LinkedIn-5857FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,12 +14,13 @@
 
 ### About
 
-CS direct admit at the **University of Washington's Paul G. Allen School**, currently an undergraduate research intern in **AI for Education** (IEEE NTC SPARK). I build at the intersection of machine learning, full-stack engineering, and human-centered technology.
+CS direct admit at the **University of Washington's Paul G. Allen School**, building at the intersection of machine learning, full-stack engineering, and human-centered technology, with a focus on **EdTech & AI**.
 
-- 🔬 Researching applications of AI in education under Dr. Lalitha Subramanian
-- 🧠 My work on **cross-cultural facial emotion recognition** won 1st place at WSSEF 2025 and was published in *Curieux Academic Journal*
-- 📱 Shipped **[OnTrack: Fitness & Faith](https://apps.apple.com/us/app/ontrack-fitness-faith/id6791721388)** to the App Store — workouts, diet, and prayer tracking in one private, local-first iPhone app
-- 🛠️ Currently building **Taleem** — a Quran LMS with AI recitation feedback
+- 🚀 Founder & Lead Engineer of **[Taleem](https://mytaleem.org)** through **MAPS Combinator '26**, a 12-week incubator ending in a Demo Day pitch to angel investors. *Know every student's progress, verse by verse.*
+- 🎓 **AI in Teaching Intern** at UW Professional & Continuing Education under Dr. Lalitha Subramanian, recommending how generative AI fits into five PCE certificate programs
+- 🏋️ **Software Engineer** at **Fitness Tech at UW**, a student team building a health and fitness app
+- 🧠 My **cross-cultural ML fairness** research on facial emotion recognition won 1st place at WSSEF 2025 and was published in *Curieux Academic Journal*
+- 📱 Shipped **[OnTrack: Fitness & Faith](https://apps.apple.com/us/app/ontrack-fitness-faith/id6791721388)** to the App Store: workouts, diet, and prayer tracking in one private, local-first iPhone app
 - 🏌️ Outside of code: weights, golf, tennis, and an acoustic guitar
 
 ---
@@ -52,7 +53,7 @@ CS direct admit at the **University of Washington's Paul G. Allen School**, curr
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| **[Taleem](https://github.com/Se9uencer/taleem)** · [live ↗](https://mytaleem.org) | Full-stack Quran LMS for Sunday schools. AI recitation feedback via Whisper + Levenshtein scoring across all 114 Surahs, role-based dashboards, 15-table Postgres schema with RLS. | Next.js · TypeScript · PostgreSQL |
+| **[Taleem](https://github.com/Se9uencer/taleem)** · [live ↗](https://mytaleem.org) | Full-stack Quran LMS for independent Quran teachers and Islamic schools, built through MAPS Combinator '26. AI recitation feedback via Whisper + Levenshtein scoring across all 114 Surahs, role-based dashboards, 15-table Postgres schema with RLS. | Next.js · TypeScript · PostgreSQL |
 | **[OnTrack](https://github.com/Se9uencer/OnTrack)** · [App Store ↗](https://apps.apple.com/us/app/ontrack-fitness-faith/id6791721388) | Shipped iPhone app (**OnTrack: Fitness & Faith**) — body weight, gym splits, diet tracking, prayer tracking, and an AI coach on Gemini. Local-first with SwiftData: no accounts, no user-data backend. HealthKit sync and a 616-exercise bundled database. | Swift · SwiftData · HealthKit |
 | **[Khatam](https://github.com/Se9uencer/Khatam)** · [live ↗](https://duatracker.netlify.app/) | Real-time collaborative dua & dhikr tracker. Live-syncing campaign counts, offline queuing, RTL Arabic rendering. | Firebase · PWA |
 | **[Cross-Cultural Emotion Recognition](https://github.com/Se9uencer/cross-cultural-facial-emotion-recognition)** | Two ResNet-18 CNNs on ~10k images each. 20% cross-dataset augmentation lifted cross-cultural accuracy from 15.6% → 79.2%. 🥇 WSSEF 2025 | PyTorch · ResNet-18 |
